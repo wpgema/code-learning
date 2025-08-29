@@ -1,0 +1,120 @@
+@keyframes downgrade {
+    from{
+        transform: translateY(-200px);
+        opacity: 0;
+    }
+
+    to{
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes leftgrade {
+    from{
+        transform: translateX(-200px);
+        opacity: 0;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes rightgrade {
+    from{
+        transform: translateX(200px);
+        opacity: 0;
+    }
+
+    to{
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes upgrade {
+    from{
+        transform: translateY(100px);
+        opacity: 0;
+    }
+
+    to{
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes munculKeAtas {
+    0% {
+        transform: translateY(100px) scale(0); 
+        opacity: 0; 
+    }
+    100% {
+        transform: translateY(0) scale(1); 
+        opacity: 1; 
+    }
+}
+
+@keyframes munculKeBawah {
+    0% {
+        transform: translateY(-80px) scale(0); 
+        opacity: 0; 
+    }
+    100% {
+        transform: translateY(0) scale(1); 
+        opacity: 1; 
+    }
+}
+
+@keyframes loadLang {
+    0% {
+        opacity: 0; 
+    }
+    100% {
+        opacity: 1; 
+    }
+}
+
+.loadChangeLang{
+    animation: loadLang .5s ease forwards; 
+}
+
+.upAnimate{
+    animation: munculKeAtas .8s ease forwards; 
+}
+
+.downAnimate{
+    animation: munculKeBawah .8s ease forwards;
+}
+
+.downgrade{
+    animation: downgrade .8s ease forwards; 
+}
+
+.leftgrade{
+    animation: leftgrade .8s ease forwards; 
+}
+
+.rightgrade{
+    animation: rightgrade .8s ease forwards; 
+}
+
+.upgrade{
+    animation: upgrade .8s ease forwards; 
+}
+
+.reveal{
+    position: relative;
+    z-index: -5;
+    transform: translateY(1.8rem) !important;
+    opacity: 0;
+    transition: all 1.5s ease forwards;
+}
+
+.reveal.active{
+    z-index: 5;
+    transform: translateY(0rem) !important;
+    opacity: 1;
+}

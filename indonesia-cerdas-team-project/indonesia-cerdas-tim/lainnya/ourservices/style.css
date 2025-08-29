@@ -1,0 +1,95 @@
+/* ini hiasan untuk phone */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.maine{
+    margin-top: 150px;
+}
+.maine .putihh{
+    display: none;
+}  
+.maine .putih{
+    width: 90%;
+    background-color: white;
+    margin: auto;
+    padding: 30px;
+    margin-bottom: 50px;
+}
+
+.maine .putih h4{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.maine .putih span{
+    font-size: 11px;
+    color: #a3a3a3;
+}
+
+.maine ul li{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.maine p {
+    font-size: 12px;
+    text-align: justify;
+    font-family: #a1a1a1;
+    font-weight: bold;
+}
+
+.footerrs{
+    padding: 20px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footerrs .row .col-lg-3{
+    margin: auto;
+    text-align: center;
+}
+
+/* ini hiasan untuk desktop */
+@media (min-width: 992px) {
+
+.maine .putihh{
+    display: block;
+}    
+.maine .putihh {
+    padding-top: 100px;
+    padding-left: 100px;
+    color: white;
+}
+.maine .putihh h2{
+    font-size: 30px;
+    font-weight: 200;
+}
+.maine .putihh h1{
+    font-size: 40px;
+    font-weight: 300;
+}
+.maine .putih{
+        width: 100%;
+        background-color: white;
+        margin: auto;
+        padding: 30px;
+        margin-bottom: 10px;
+        border-radius: 3px;
+    }
+
+.footerrs{
+    margin-top: 90px;
+    padding: 30px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+    height: 160px;
+}
+
+}

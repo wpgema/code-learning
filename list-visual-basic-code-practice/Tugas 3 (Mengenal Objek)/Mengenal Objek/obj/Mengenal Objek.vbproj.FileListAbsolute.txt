@@ -1,0 +1,22 @@
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\bin\Debug\Mengenal Objek.exe
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\bin\Debug\Mengenal Objek.pdb
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\bin\Debug\Mengenal Objek.xml
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal_Objek.mengenalobjek.resources
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal_Objek.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal Objek.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal Objek.exe
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal Objek.xml
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal Objek.pdb
+C:\Users\User\Downloads\TASK VB NET\Mengenal Objek\Mengenal Objek\obj\Debug\Mengenal_Objek.menumanustrip.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal Objek.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal Objek.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal Objek.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\bin\Debug\Mengenal Objek.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\bin\Debug\Mengenal Objek.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\bin\Debug\Mengenal Objek.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal_Objek.mengenalobjek.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal_Objek.menumanustrip.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal_Objek.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 3 (Mengenal Objek)\Mengenal Objek\obj\Debug\Mengenal Objek.vbproj.GenerateResource.Cache

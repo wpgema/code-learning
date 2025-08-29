@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SPACE-EN005
+</name>
+</assembly>
+<members>
+<member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_ADMINDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_BARANGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_DETAILTERIMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_KATEGORIDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_SUPPLIERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_TERIMADataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_ADMINRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_BARANGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_DETAILTERIMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_KATEGORIRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_SUPPLIERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_TERIMARow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_ADMINRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_BARANGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_DETAILTERIMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_KATEGORIRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_SUPPLIERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet.TBL_TERIMARowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSetTableAdapters.TBL_ADMINTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSetTableAdapters.TBL_BARANGTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSetTableAdapters.TBL_DETAILTERIMATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSetTableAdapters.TBL_KATEGORITableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSetTableAdapters.TBL_SUPPLIERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SPACE_EN005.DBAPLIKASIDataSetTableAdapters.TBL_TERIMATableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

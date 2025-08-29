@@ -1,0 +1,560 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    transition: all .2s linear;
+    text-decoration: none;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+
+main, .footer{
+    width: 100%;
+    overflow-x: hidden !important;
+}
+
+.judul{
+    display: inline-block;
+    text-align: center;
+    font-size: 2.5rem;
+    color: rgba(243, 152, 195, 0.8);
+    position: relative;
+    padding: 1rem 2rem
+}
+
+.judul::before, .judul::after{
+    content: '';
+    position: absolute;
+    width: 2rem;
+    height: 2rem;
+    border-top: .4rem solid rgba(243, 152, 195, 0.8);
+    border-left: .4rem solid rgba(243, 152, 195, 0.8);
+}
+
+.judul::before{
+    top: .3rem; left: 0rem
+}
+
+.judul::after{
+    bottom: .3rem; right: 0rem;
+    transform: rotate(180deg);
+}
+
+.tombol{
+    display: inline-block;
+    padding: 1rem 2rem;
+    border-radius: 1.5rem;
+    background-color: rgba(243, 152, 195, 0.8);
+    color: white;
+    font-size: 1.5rem;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0rem 2rem 5rem;
+    position: relative;
+    background-color: white;
+}
+
+header h1{
+    font-family: 'Agdasima', sans-serif;
+    font-size: 4rem;
+    color: rgba(243, 152, 195);
+    margin: 0 1rem;
+    letter-spacing: .2rem;
+}
+
+header h1 .fa-bars{
+    display: none;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+header nav ul li a{
+    font-family: 'Agdasima', sans-serif;
+    padding: 0 1.5rem;
+    color: rgba(243, 152, 195, 0.8);
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.home{
+    padding: 4rem 8rem 8rem;
+    text-align: center;
+    position: relative;
+}
+
+.home .row{
+    display: flex;
+    margin: 3rem;
+}
+
+.home .row .col-deskripsi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5rem;
+    text-align: left;
+}
+
+.home .col-deskripsi h3, .about .row{
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.home .col-deskripsi p{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.home .row img{
+    width: 40rem;
+}
+
+.home::before, .home::after{
+    content: '';
+    position: absolute;
+    width: 40rem;
+    height: 40rem;
+    border-radius: 50%;
+    background-color: rgba(243, 152, 195, 0.6);
+    z-index: -1;
+}
+
+.home::before{
+    left: -5rem;
+    bottom: -12rem;
+}
+
+.home::after{
+    right: -12rem;
+    top: -7rem;
+}
+
+.about{
+    text-align: center;
+    background-color: white;
+    padding: 6rem;
+}
+
+.about .row{
+    display: flex;
+    text-align: left;
+    margin-top: 3rem;
+}
+
+.about .row .col-one{
+    border-right: .5rem solid rgba(243, 152, 195, 0.6);
+}
+
+.about .row .col-one, .about .row .col-two{
+    width: 50%;
+    padding: 4rem 10rem;
+}
+
+.about .row .col-one h3, .about .row .col-two h3{
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.about .row .col-one p, .about .row .col-two p{
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.services{
+    text-align: center;
+    position: relative;
+    padding-top: 4rem;
+}
+
+.services .row{
+    padding: 4rem 10rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.services .row .col{
+    width: 30rem;
+    padding: 1.5rem;
+    background-color: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.services .row .col img{
+    width: 100%;
+}
+
+.services .row .col h4{
+    font-size: 2rem;
+    font-weight: 400;
+    padding-top: 1rem;
+}
+
+.animate h1{
+    position: absolute;
+    z-index: -1;
+    font-size: 30rem;
+    color: rgba(243, 152, 195, 0.6);
+    animation: rotate 10s linear infinite;
+}
+
+@keyframes rotate{
+    100%{
+        transform: rotate(360deg);
+    }
+}
+
+.animate h1.atas{
+    top: -1rem;
+    right: 4rem
+}
+
+.animate h1.bawah{
+    bottom: -5rem;
+    left: 4rem;
+    z-index: -1;
+}
+
+.services .row .col p{
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding-bottom: 1rem;
+}
+
+.contact{
+    padding: 5rem;
+    text-align: center;
+}
+
+.contact .row{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 4rem;
+}
+
+.contact .row .col{
+    width: 30rem;
+    padding: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 1rem;
+}
+
+.contact .row .col h4{
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    padding-bottom: 1rem;
+}
+
+.contact .col img {
+    width: 10rem
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 3rem;
+}
+
+.footer .row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer .row{
+    text-align: left;
+    padding-top: 3rem;
+}
+
+.footer .row h3{
+    font-size: 2rem;
+}
+
+.footer .row .col table{
+    font-size: 1.3rem;
+}
+
+.footer .row .col table tr{
+    border: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer .row .col table td{
+    padding: .75rem 4rem .75rem 0;
+}
+
+.footer-body{
+    padding-top: 3rem;
+}
+
+.footer-body h1{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-transform: lowercase;
+}
+
+.footer-body i{
+    color: rgb(243, 20, 20,.8);
+}
+
+@media (min-width: 662px) and (max-width: 991px){
+    header{
+        padding: 1.5rem 1rem;
+    }
+
+    .home{
+        margin: 3rem 0;
+        padding: 0 !important;
+    }
+
+    header h1{
+        font-size: 3rem;
+        position: relative;
+        z-index: 1;
+    }
+
+    header .nav{
+        position: absolute;
+        z-index: 3;
+        width: 100%;
+        height: max-content;
+        background-color: white;
+        left: 0;
+        right: 0;
+        top: -30rem
+    }
+
+    header .nav-togle{
+        top: 6rem;
+        transition: .3s ease-in-out;
+        background-color: white;
+    }
+
+    header .nav ul{
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header .nav ul li{
+        padding: 1rem;
+    }
+
+    header h1 .fa-bars{
+        display: block;
+    }
+
+    .about, .home{
+        padding: 5rem 0rem; margin: 0;
+    }
+
+    .home .row{
+        margin: 3rem 1rem;
+    }
+
+    .home .row .col-deskripsi{
+        padding: 2rem 0 0 1rem;
+    }
+
+    .about .row, .services .row, .contact .row{
+        padding: 0; margin: 0;
+    }
+
+    .about .row .col-one, .about .row .col-two{
+        padding:2rem; margin:0;
+    }
+
+    .services .col, .contact .col {
+        margin: 1rem;
+    }
+}
+
+@media (max-width: 662px){
+    body{
+        width: 100%;
+        overflow-x: hidden !important;
+    }
+
+    main, .footer{
+        width: 100%;
+        overflow-x: hidden !important;
+    }
+
+    header{
+        padding: 1.5rem 1rem;
+    }
+
+    .home{
+        margin: 3rem 0;
+        padding: 0 !important;
+    }
+
+    header h1{
+        font-size: 3rem;
+        position: relative;
+        z-index: 1;
+    }
+
+    header .nav{
+        position: absolute;
+        z-index: 3;
+        width: 100%;
+        height: max-content;
+        background-color: white;
+        left: 0;
+        right: 0;
+        top: -30rem
+    }
+
+    header .nav-togle{
+        top: 6rem;
+        transition: .3s ease-in-out;
+        background-color: white;
+    }
+
+    header .nav ul{
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header .nav ul li{
+        padding: 1rem;
+    }
+
+    header h1 .fa-bars{
+        display: block;
+    }
+
+    .jumbotron{
+        background-image: url(../images/z-21.jpg);
+    }
+
+    .home .row{
+        display: flex;
+        flex-direction: column-reverse;
+        margin: 3rem 1rem;
+    }
+
+    .home .row .col-deskripsi, .home .row .col-img{
+        padding: 1rem;
+    }
+
+    .home .row .col-img{
+        display: flex;
+        justify-content: center;
+    }
+
+    .home::before, .home::after{
+        width: 25rem;
+        height: 25rem;
+    }
+
+    .home::before{
+        left: -10rem;
+        bottom: -7rem;
+    }
+    
+    .home::after{
+        right: -10rem;
+        top: -7rem;
+    }
+
+    .about{
+        padding: 1rem 0;
+    }
+
+    .about .row{
+        display: flex;
+        flex-direction: column;
+        
+        margin-top: 1rem;
+    }
+
+    .about .row .col-one, .about .row .col-two{
+        width: 100vw;
+        display: flex;
+        flex-direction: column;
+        padding:1rem 2rem;
+    }
+
+    .about .row .col-one h3, .about .row .col-two h3{
+        font-size: 2rem;
+    }
+
+    .about .row .col-one p, .about .row .col-two p{
+        font-size: 1.3rem;
+    }
+
+    .services .row{
+        flex-direction: column;
+        padding: 4rem 5rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .services .row .col{
+        margin-bottom: 2rem;
+    }
+
+    .services .animate h1{
+        font-size: 20rem;
+    }
+
+    .services .animate h1.atas{
+        top: 4rem;
+        right: -7rem;
+    }
+
+    .services .animate h1.bawah{
+        left: -1rem;
+    }
+
+    .contact .row{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-bottom: 1rem;
+    }
+
+    .contact .row .col{
+        margin-top: 2rem;
+    }
+
+    .footer{
+        padding-top: 0;
+    }
+
+    .footer .row{
+        flex-direction: column;
+        padding-top: 0;
+    }
+
+    .footer .row .col{
+        margin-top: 3rem;
+    }
+}

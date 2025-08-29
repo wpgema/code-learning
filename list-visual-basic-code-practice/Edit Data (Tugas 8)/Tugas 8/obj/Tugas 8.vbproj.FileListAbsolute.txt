@@ -1,0 +1,24 @@
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\bin\Debug\Tugas 8.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\bin\Debug\Tugas 8.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\bin\Debug\Tugas 8.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas_8.dtMahasiswa.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas_8.EditDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas_8.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas_8.TambahDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas 8.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas 8.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas 8.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 8\Tugas 8\obj\Debug\Tugas 8.pdb
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas 8.exe
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas 8.xml
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas 8.pdb
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\bin\Debug\Tugas 8.exe
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\bin\Debug\Tugas 8.pdb
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\bin\Debug\Tugas 8.xml
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas_8.DtMahasiswa.resources
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas_8.EditDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas_8.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas_8.TambahDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Edit Data (Tugas 8)\Tugas 8\obj\Debug\Tugas 8.vbproj.GenerateResource.Cache

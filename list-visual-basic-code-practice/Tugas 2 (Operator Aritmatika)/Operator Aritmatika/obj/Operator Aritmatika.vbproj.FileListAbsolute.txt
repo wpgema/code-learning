@@ -1,0 +1,20 @@
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\bin\Debug\Operator Aritmatika.exe
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\bin\Debug\Operator Aritmatika.pdb
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\bin\Debug\Operator Aritmatika.xml
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\Operator_Aritmatika.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\Operator_Aritmatika.OpAritmatika.resources
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\Operator Aritmatika.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\Operator Aritmatika.exe
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\Operator Aritmatika.xml
+C:\Users\User\Downloads\TASK VB NET\Operator Aritmatika\Operator Aritmatika\obj\Debug\Operator Aritmatika.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\Operator Aritmatika.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\Operator Aritmatika.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\Operator Aritmatika.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\bin\Debug\Operator Aritmatika.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\bin\Debug\Operator Aritmatika.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\bin\Debug\Operator Aritmatika.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\Operator_Aritmatika.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\Operator_Aritmatika.OpAritmatika.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 2 (Operator Aritmatika)\Operator Aritmatika\obj\Debug\Operator Aritmatika.vbproj.GenerateResource.Cache

@@ -1,0 +1,189 @@
+/* ini bagi/* ini bagian nav */
+nav{
+    background-color: white;
+    height: 80px;
+    position: fixed !important;
+    top: 0;
+    right:0;
+    left: 0;
+    z-index: 1;
+    box-shadow: 0 2px 10px rgba(7,7,7,.6);
+}
+nav img{
+    width: 40px !important;
+    height: 40px;
+    border-radius: 50%;
+}
+nav .container a{
+    font-size: 16px !important;
+
+}
+/* akhir nav */
+
+/* style utama */
+.containers{
+    margin-top: 80px;
+}
+.utama h1{
+    font-size: 20px;
+}
+
+.utama .kotak{
+    box-shadow: 0 0 1px rgba(7, 7, 7,.6);
+    background-color: white;
+    width: 90px;
+    height: 60px;
+    line-height: 60px;
+}
+.utama .kotak a{
+    font-size: 13px ;
+}
+
+.utama .kotaks{
+    box-shadow: 0 0 1px rgba(7, 7, 7,.6);
+    background-color: white;
+    width: 100%px;
+    height: 75px;
+    margin-top: 10px;
+    padding: 7px;
+}
+.utama .kotaks h3{
+    margin-left: 30px !important;
+    font-size: 15px;
+    color: #ababab;
+    text-align: justify !important;
+}
+.utama .kotaks p{
+    font-size: 12px;
+    text-align: justify !important;
+}
+.utama .kotaks a{
+    font-size: 13px ;
+}
+.utama .garis h3{
+    font-size: 15px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.utama h5{
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    padding: 10px 20px;
+    box-shadow: 0 0 2px rgba(7, 7, 7,.6);
+    border-radius: 2px;
+}
+.utama .ro h6{
+    font-size: 15px;
+    font-weight: 500;
+}
+.utama .ro p{
+    font-size: 12px;
+    font-weight: 300;
+    color: rgb(48, 46, 46);
+}
+.gambar{
+    text-align: center;
+    height: 180px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    padding: 18px !important;
+    box-shadow: 0 0 5px rgba(8, 8, 8,.6);
+    background-color: white;
+}
+.gambar img{
+    width: 50%;
+    height: 50px;
+}
+.gambar p{
+    line-height: 5px !important;
+    font-size: 13px;
+}
+
+/* akhir style utama */
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+    /* ini bagi/* ini bagian nav */
+nav{
+    background-color: white;
+    height: 100px;
+    position: fixed;
+    z-index: 1;
+}
+nav .container a{
+    font-size: 22px !important;
+}
+/* akhir nav */
+
+/* style utama */
+.containers{
+    margin-top: 100px !important;
+}
+.utama h1{
+    font-size: 25px;
+}
+.utama .kotak{
+    width: 100px;
+    height: 80px;
+    line-height: 80px;
+}
+.utama .kotaks{
+    width: 100%;
+    height: 80px;
+    padding: 8px;
+    margin-top: 0 !important;
+}
+.utama .kotaks h3{
+    font-size: 18px;
+    color: #ababab;
+    margin-left: 0 !important;
+}
+.utama .kotaks p{
+    font-size: 13px;
+    text-align: justify !important;
+}
+.utama .garis h3{
+    font-size: 18px;
+    color: white;
+    font-weight: 400;
+}
+.utama h5{
+    font-size: 25px;
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    padding: 10px 20px;
+    box-shadow: 0 0 2px rgba(7, 7, 7,.6);
+    border-radius: 2px;
+}
+.utama .ro h6{
+    font-size: 18px !important;
+    font-weight: 600;
+}
+.utama .ro p {
+    font-size: 14px;
+    font-weight: 300;
+    color: rgb(48, 46, 46);
+}
+.gambar{
+    height: 230px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    padding: 18px !important;
+}
+.gambar img{
+    width: 100%;
+    height: 100px;
+}
+/* akhir style utama */
+
+
+
+
+ }
+
+

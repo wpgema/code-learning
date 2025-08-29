@@ -1,0 +1,188 @@
+/* ini hiasan untuk phone */
+
+.mains{
+    margin-top: 120px;
+}
+
+.news{
+    margin: auto;
+}
+
+
+.news .berita{
+    width: 80%;
+    height: 500px;
+    background-color: white;
+    padding: 20px 10px;
+    margin: auto;
+}
+
+.news .berita1{
+    width: 50%;
+    height: 150px;
+    background-color: white;
+    padding: 20px 10px;
+    margin:  5px auto;
+    box-shadow: 0 0 10px  rgb(0, 0, 0,.3);
+}
+
+.news .berita2{
+    width: 80%;
+    height: 500px;
+    background-color: white;
+    padding: 20px 10px;
+    margin: 20px auto 0;
+}
+.newss .berita2{
+    width: 40%;
+    height: 300px;
+    background-color: white;
+    padding: 20px 10px;
+    margin: 20px auto 0;
+}
+.berita img, .berita2 img{
+    width: 100%;
+    height: 60%;
+}
+.berita1 img{
+    width: 100%;
+    height: 75%;
+    margin-bottom: 3px;
+}
+.news h3{
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.news p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* ini style kartu bagian aawal phone */
+.plx{
+    
+    margin-bottom: 40px !important;
+    position: relative;
+    z-index: -2;
+    width: 100%;
+    height: 480px;
+    background: transparent
+}
+.kartu{
+    padding-bottom: 60px;
+    display: flex;
+    position: relative;
+    z-index: -2;
+}
+
+.kartu .cardd{
+    width: 90%;
+    height: 120px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
+
+.kartu .satu{
+    background-image: linear-gradient(to bottom right, blueviolet, rgba(255, 0, 0, 0.733));
+}
+
+.kartu .dua{
+    background-image: linear-gradient(to bottom right, rgb(226, 43, 195), rgba(255, 0, 0, 0.507));
+    margin-top: 20px;
+}
+
+.kartu .tiga{
+    background-image: linear-gradient(to bottom right, blueviolet, rgba(71, 96, 240, 0.733));
+    margin-top: 20px;
+}
+
+.kartu .cardd h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #acacac;
+}
+
+.kartu .cardd p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.footerss{
+    margin-top: 100px;
+    padding: 20px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footerss .row .col-lg-3{
+    margin: auto;
+    text-align: center;
+}
+/* ini style kartu akhir bagian phone */
+
+
+
+
+/* ini hiasan untuk desktop */
+@media (min-width: 992px) {
+    .news{
+        box-shadow: 0 0 10px solid rgb(0, 0, 0,.6);
+    }
+    .news .berita{
+        width: 100%;
+        height: 500px;
+        background-color: white;
+        padding: 20px 10px;
+    }
+    .news .berita1{
+        width: 100%;
+        height: 150px;
+        background-color: white;
+        padding: 20px 10px;
+        margin:  0;
+    }
+    .news .berita2{
+        width: 100%;
+        height: 500px;
+        background-color: white;
+        padding: 20px 10px;
+        margin:  0;
+    }
+    /* ini bagian awal style kartu pc */
+    .plx{
+        height: 160px;
+        margin-top: 50px;
+    }
+    .kartu{
+        padding-top: 50px;
+        display: flex;
+    }
+    .kartu .cardd{
+        width: 90%;
+        height: 120px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    /* ini bagian akhir style kartu pc */
+
+    .footerss{
+        margin-top: 50px;
+        padding: 30px;
+        background-color: black;
+        color: #acacac;
+        font-size: 12px;
+        font-weight: 200;
+    }
+
+
+}

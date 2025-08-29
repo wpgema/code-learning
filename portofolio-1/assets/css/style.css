@@ -1,0 +1,194 @@
+nav{
+    background-color: #a571ff;
+    background-color: white;
+}
+.navbar-brand{
+    letter-spacing: 2px;
+    color: black !important;
+}
+
+.navbar-brand img{
+    width: 4vw;
+    height: 4vw;
+    border-radius: 50%;
+}
+
+nav a.nav-link{
+    color: black !important;
+    font-weight: 600;
+}
+
+.jumbotron .row{
+    background-color: white;
+    border-radius: 8px;
+}
+
+.jumbotron{
+    width: 100%;
+    background-color: #A06AFE;
+    background-color: white;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron .col{
+    margin-top: 10vh;
+}
+
+.jumbotron img{
+    width: 250px;
+    height: 250px;
+}
+
+.jumbotron h6{
+    position: relative;
+    z-index: 1;
+}
+
+.profile .col-lg-2{
+    background-color: #B47AE8;
+    padding-top: 10px;
+    margin: 7px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.education .col-lg-2{
+    background-color: white;
+    color: #acacac;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin: 7px;
+    border-radius: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.education .col-lg-2 img{
+    width: 10vw;
+    height: 20vh;
+}
+
+.exp .col-lg-4{
+    background-color: #E8E8E8;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin: 7px;
+    padding-bottom: 10px;
+}
+
+.exp .col-lg-4 img{
+    width: 100%;
+    height: 30vh;
+}
+
+.ach .row .col-lg-2{
+    padding: 10px;
+    background-color: #B47AE8;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.etc .col-11{
+    border-radius: 5px;
+}
+
+.footer, .footer i{
+    background-color: white;
+}
+
+@media (max-width: 556px) {
+    nav{
+        border-bottom: none;
+    }
+    
+    .navbar-brand img{
+        width: 8vw;
+        height: 8vw;
+        border-radius: 50%;
+    }
+    
+    .jumbotron{
+        width: 100%;
+        border: none;
+        background-color: whitesmoke;
+    }
+
+    .jumbotron img{
+        width: 200px;
+        height: 200px;
+    }
+
+    .jumbotron .col{
+        margin-top: 10vmin;
+    }
+
+    .jumbotron .col-lg-7{
+        display: none;
+    }
+    
+    .profile .col-lg-2{
+        width: 40vw;
+        padding: 3vw;
+        box-sizing: border-box;
+    }
+
+    .education .col-lg-2{
+        width: 40vw;
+        padding: 3vw;
+        box-sizing: border-box;
+        background-color: white;
+        color: #acacac;
+        font-size: 14px;
+        font-weight: 600;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .education .col-lg-2 img{
+        width: 35vw;
+        height: 30vh;
+    }
+
+    .exp .col-lg-4{
+        width: 95vw;
+        padding-top: 5px;
+        margin-top: 10px;
+        box-sizing: border-box;
+    }
+
+    .ach .col-lg-2{
+        width: 40vw;
+    }
+
+    .etc .col-lg-2{
+        width: 40vw;
+        margin-bottom: 10px;
+    }
+}
+
+@media (min-width: 557px) and (max-width: 991px){
+    .jumbotron .row{
+        padding: 1px 12px;
+        box-sizing: border-box;
+        color: #aaaaaa !important;
+    }
+    .jumbotron .row .col{
+        margin: 50px auto;
+    }
+
+    .jumbotron .row .col-lg-7{
+        color: rgba(0,0,0,.6) !important;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        letter-spacing: .5px;
+    }
+
+    .profile .col-lg-2, .education .col-lg-2, .ach .col-lg-2, .etc .col-lg-2{
+        width: 40%;
+        padding: 3vw !important;
+        font-size: 1.2rem;
+    }
+    
+    .education .col-lg-2 img{
+        width: 90%;
+    }
+}

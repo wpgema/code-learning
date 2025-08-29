@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\bin\Debug\Belajar Vb Net 05.exe
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\bin\Debug\Belajar Vb Net 05.pdb
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\bin\Debug\Belajar Vb Net 05.xml
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar_Vb_Net_05.belajarvbnet.resources
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar_Vb_Net_05.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.exe
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.xml
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.pdb
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar_Vb_Net_05.BerandaVbNet.resources
+C:\Users\User\Downloads\TASK VB NET\Belajar Vb Net 05\Belajar Vb Net 05\obj\Debug\Belajar_Vb_Net_05.konstantavariabel.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 1 (Belajar vb net 2005)\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 1 (Belajar vb net 2005)\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 1 (Belajar vb net 2005)\Belajar Vb Net 05\obj\Debug\Belajar Vb Net 05.pdb

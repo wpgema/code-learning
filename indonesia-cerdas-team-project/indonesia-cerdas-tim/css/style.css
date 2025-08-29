@@ -1,0 +1,186 @@
+/* tampilan phone */
+
+/* nav untuk phone bagian awal */
+body{
+    font-family: Times New Roman;
+}
+
+nav{
+    background-color: white;
+    /* box-shadow: 0 4px 5px rgb(7, 7, 7,.6); */
+    height: 80px;
+    line-height: 60px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+nav .container .branding{
+    width: 350px;
+    margin-left: 80px;
+}
+
+nav .container p{
+    font-size: 30px;
+    /* color: rgb(109, 168, 20); */
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.menu-btn{
+    display: block;
+}
+/* nav untuk phone bagian akhir */
+
+/* ini style bagian dashboard phone */
+.dashboard {
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/d3.webp);
+    background-position: -370px;
+    background-size: cover;
+    position: relative;
+    z-index: -4;
+}
+/* ini bagian akhir dashboard phone */
+
+/* ini style kartu bagian aawal phone */
+.plx{
+    position: relative;
+    z-index: -2;
+    width: 100%;
+    height: 480px;
+    background-color: white;
+}
+.kartu{
+    padding-top: 50px;
+    display: flex;
+    position: relative;
+    z-index: -2;
+}
+
+.kartu .cardd{
+    width: 90%;
+    height: 120px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,.4);
+}
+
+.kartu .satu{
+    background-image: linear-gradient(to bottom right, blueviolet, rgba(255, 0, 0, 0.733));
+}
+
+.kartu .dua{
+    background-image: linear-gradient(to bottom right, rgb(226, 43, 195), rgba(255, 0, 0, 0.507));
+    margin-top: 20px;
+}
+
+.kartu .tiga{
+    background-image: linear-gradient(to bottom right, blueviolet, rgba(71, 96, 240, 0.733));
+    margin-top: 20px;
+}
+
+.kartu .cardd h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #acacac;
+}
+
+.kartu .cardd p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* ini style kartu akhir bagian phone */
+
+/* ini bagian awal untuk style footer bagian phone */
+.footer{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footer .row .col-lg-3{
+    margin: auto;
+    text-align: center;
+}
+/* ini bagian akhir untuk style footer bagian phone */
+
+
+
+/* ini versi pc */
+@media (min-width: 992px) { 
+    /* ini nav untuk pc */
+
+    nav{
+        height: 100px;
+    }
+
+    nav .container .branding p{
+        font-size: 35px;
+        margin-top: -25px !important;
+
+    }
+
+    nav .container .branding{
+        margin-left: 0;
+    }
+
+    .menu-btn{
+        display: none;
+    }
+    
+
+    /* ini bagian akhir nav untuk pc */
+
+
+    /* ini style bagian dashboard  pc*/
+    .dashboard {
+        width: 100%;
+        height: 550px;
+        background-position: 0px;
+    }
+    /* ini style bagian akhir dashboard  pc*/
+
+
+    /* ini bagian awal style kartu pc */
+    .plx{
+        height: 160px;
+    }
+    .kartu{
+        padding-top: 50px;
+        display: flex;
+    }
+    .kartu .cardd{
+        width: 90%;
+        height: 120px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    /* ini bagian akhir style kartu pc */
+
+    /* ini style awal untuk footer bagian pc */
+    .footer{
+        padding: 30px;
+        background-color: black;
+        color: #acacac;
+        font-size: 12px;
+        font-weight: 200;
+    }
+    /* ini style akhir untuk footer bagian pc */
+
+
+
+}

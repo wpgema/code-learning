@@ -1,0 +1,27 @@
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\bin\Debug\Data Timer Picker.exe
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\bin\Debug\Data Timer Picker.pdb
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\bin\Debug\Data Timer Picker.xml
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data_Timer_Picker.datatimerpicker.resources
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data_Timer_Picker.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data Timer Picker.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data Timer Picker.exe
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data Timer Picker.xml
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data Timer Picker.pdb
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data_Timer_Picker.ImageList.resources
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker\Data Timer Picker\obj\Debug\Data_Timer_Picker.ProgressBar.resources
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker (Tugas 4)\Data Timer Picker\obj\Debug\Data Timer Picker.exe
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker (Tugas 4)\Data Timer Picker\obj\Debug\Data Timer Picker.xml
+C:\Users\User\Downloads\TASK VB NET\Data Timer Picker (Tugas 4)\Data Timer Picker\obj\Debug\Data Timer Picker.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data Timer Picker.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data Timer Picker.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data Timer Picker.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\bin\Debug\Data Timer Picker.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\bin\Debug\Data Timer Picker.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\bin\Debug\Data Timer Picker.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data_Timer_Picker.datatimerpicker.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data_Timer_Picker.ImageList.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data_Timer_Picker.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data_Timer_Picker.ProgressBar.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 4 (Data Timer Picker)\Data Timer Picker\obj\Debug\Data Timer Picker.vbproj.GenerateResource.Cache

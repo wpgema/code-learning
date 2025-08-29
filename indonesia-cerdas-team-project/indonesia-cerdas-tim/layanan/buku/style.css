@@ -1,0 +1,106 @@
+/* ini tampilan phone */
+.judul{
+    margin-top: 80px;
+    padding: 30px;
+    background-color: #ecefef;
+    margin-bottom: 15px;
+}
+
+.mainsa{
+    position: relative;
+    z-index: -1;
+    width: 90% !important;
+    height: 250px;
+    margin: auto;
+    background-size: cover;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.mainse{
+    position: relative;
+    z-index: -1;
+}
+.mainsa .gambar{
+    width: 100%;
+    height: 100%;
+}
+ .mainsa .gambar img{
+    width: 100%;
+    height: 100%;
+ }
+ .pelatihan{
+    margin-left: 10px;
+ }
+ .mainse h4{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.mainse p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: rgb(10, 10, 10,.7);
+    text-align: justify;
+}
+ .footerr{
+    margin-top: 50px;
+    padding: 20px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+    position: relative;
+    z-index: -1;
+}
+
+.footerr .row .col-lg-3{
+    margin: auto;
+    text-align: center;
+}
+
+
+@media (min-width: 992px) { 
+    .judul{
+        margin-top: 110px;
+        padding: 30px;
+        background-color: #ecefef;
+        margin-bottom: 15px;
+    }
+    
+    .mainsa{
+        position: relative;
+        z-index: -1;
+        height: 450px;
+        margin: auto;
+        overflow: hidden;
+        margin-top: 20px;
+    }
+    
+    .mainsa .gambar{
+        width: 100%;
+        height: 100%;
+    }
+    .mainsa .gambar img{
+        width: 90%;
+        height: 90%;
+    }
+    .pelatihan{
+        margin-left: none;
+     }
+    .mainse h4{
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .mainse p {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 16px;
+        color: rgb(10, 10, 10,.7);
+        text-align: justify;
+    }
+    .footerr{
+        padding: 30px;
+        background-color: black;
+        color: #acacac;
+        font-size: 12px;
+        font-weight: 200;
+    }
+}

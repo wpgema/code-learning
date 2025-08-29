@@ -1,0 +1,78 @@
+/* ini hiasan untuk phone */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.maine{
+    margin-top: 120px;
+}
+
+.peta{
+    width: 90%;
+    height: 450px;
+    border: 2px solid black;
+    overflow: hidden;
+    border-radius: 3px;
+    padding: 5px;
+}    
+
+.map{
+    width: 100%;
+    height: 100%;
+}
+
+.bariskanan{
+    margin-top: 50px;
+}
+.maine h4{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.maine p{
+    text-indent: 10px;
+    color: (10,10,10,.7);
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.maine ul{
+    margin-left: 20px;
+}
+
+.footerrs{
+    padding: 20px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+    position: relative;
+    z-index: 2;
+}
+
+.footerrs .row .col-lg-3{
+    margin: auto;
+    text-align: center;
+}
+
+/* ini hiasan untuk desktop */
+@media (min-width: 992px) {
+
+.map{
+    width: 100%;
+    height: 400px;
+}   
+
+
+
+.footerrs{
+    margin-top: 70px;
+    padding: 30px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+    height: 100px;
+}
+
+}

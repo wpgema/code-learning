@@ -1,0 +1,298 @@
+:root{
+    --color:#6C5CE7;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    transition: all .2s linear;
+    text-decoration: none;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    overflow-x: hidden !important;
+    width: 100%;
+    background-color: #fffefe
+}
+
+.tombol{
+    display: inline-block;
+    padding: 1rem 2rem;
+    background-color: white;
+    border-radius: 1rem;
+    margin: auto 0;
+}
+
+a.tombol{
+    font-size: 1.8rem;
+    color: rgba(243, 152, 195, 0.8);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.judul{
+    font-size: 4rem;
+    font-family: 'agdasima';
+    font-weight: 400;
+    display: inline-block;
+    text-align: center;
+}
+
+header{
+    background-color: rgba(243, 152, 195, 0.8);
+    padding: 2rem 4rem;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 0 2rem rgba(0,0,0,.2);
+}
+
+header h1{
+    font-family: 'agdasima';
+    font-size: 3rem;
+    font-weight: 400;
+    margin-bottom: 1.2rem;
+}
+
+header div a{
+    color: white;
+    text-decoration: none;
+}
+
+header h2{
+    font-family: 'agdasima';
+    font-weight: 300;
+    font-size: 2.5rem;
+}
+
+.main-head{
+    text-align: center;
+}
+
+.main-head h1{
+    margin: 4rem;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container div{
+    width: 20%;
+    position: relative;
+    margin: 0rem 2rem;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgba(0,0,0,.1);
+    box-shadow: 0 0 1rem rgba(0,0,0,.19);
+    text-align: left;
+    overflow: hidden;
+}
+
+.container div::before{
+    content: '';
+    position: absolute;
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    background-color: rgba(243, 152, 195, 0.5);
+    bottom: -3rem;
+    right: -3rem;
+}
+
+.container div img{
+    width: 100%;
+    height: 30rem;
+}
+
+.container div img:hover{
+    transform: scaleX(1.17);
+    opacity: .7;
+}
+
+.container div h3{
+    font-size: 3rem;
+    font-weight: 400;
+    font-family: 'agdasima';
+    padding: .5rem;
+}
+
+.container span{
+    font-family: 'agdasima';
+    color: #acacac;
+    font-size: 1.5rem;
+    padding: .5rem;
+}
+
+.container p{
+    position: relative;
+    font-size: 1.8rem;
+    font-weight: 400;
+    font-family: 'agdasima';
+    padding: .5rem .5rem 3rem .5rem;
+    z-index: 1;
+}
+
+.main-body{
+    text-align: center;
+    padding: 4rem;
+}
+
+.main-body h1{
+    margin: 4rem;
+}
+
+.main-body div{
+    min-height: 28%;
+}
+
+.main-body div img{
+    height: 17%;
+}
+
+.container-dua{
+    margin: 4rem 0;
+}
+
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 3rem;
+}
+
+.footer .row{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer .row{
+    text-align: left;
+    padding-top: 3rem;
+}
+
+.footer .row h3{
+    font-size: 2rem;
+}
+
+.footer .row .col table{
+    font-size: 1.3rem;
+}
+
+.footer .row .col table tr{
+    border: 2px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer .row .col table td{
+    padding: .75rem 4rem .75rem 0;
+}
+
+.footer-body{
+    padding-top: 3rem;
+}
+
+.footer-body h1{
+    font-size: 1.3rem;
+    font-weight: 400;
+    text-transform: lowercase;
+}
+
+.footer-body i{
+    color: rgb(243, 20, 20,.8);
+}
+
+@media (min-width: 663px) and (max-width: 991px){
+    .main-head .container{
+        padding: 0; margin: 0 1rem;
+    }
+
+    .container div{
+        width: auto;
+        margin: .2rem;
+    }
+
+    .main-body{
+        padding: 1rem;
+    }
+
+    .main-body .container div{
+        max-height: 300px;
+    }
+}
+
+@media (max-width: 662px){
+    body{
+        width: 100%;
+        overflow-x: hidden !important;
+        background-color: #fffefe
+    }
+
+    header{
+        display: block;
+        padding: 2rem;
+    }
+
+    .judul{
+        font-size: 3rem;
+    }
+
+    header h1{
+        margin-bottom: 1.2rem;
+        font-size: 2.5rem;
+    }
+
+    header h2{
+        margin-bottom: 1.2rem;
+    }
+
+    header a.tombol{
+        font-size: 1.5rem;
+    }
+
+    .container{
+        flex-direction: column;
+    }
+
+    .main-head .container div{
+        width: 28rem;
+        margin: 2rem 0;
+    }
+    
+    .main-body .container div{
+        width: 25rem;
+        margin: 2rem 0;
+    }
+
+    .container div::before{
+        width: 15rem;
+        height: 15rem;
+        bottom: -3rem;
+        right: -3rem;
+    }
+
+    .main-body div img{
+        height: 30vh;
+    }
+
+    .footer{
+        padding: 0 3rem 3rem 3rem;
+        text-align: center;
+    }
+
+    .footer .row{
+        flex-direction: column;
+        padding-top: 0;
+    }
+
+    .footer .row .col{
+        margin-top: 3rem;
+    }
+}

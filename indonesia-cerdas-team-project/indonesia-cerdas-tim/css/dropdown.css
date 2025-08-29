@@ -1,0 +1,129 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 20px 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1;
+}
+
+header .navbarss ul {
+    list-style-type: none;
+    float: right;
+    margin-top: 23px;
+}
+header .navbarss ul li{
+    position: relative;
+    float: left;
+    
+}
+
+header .navbarss ul li a{
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:black;
+    display: block;
+    text-decoration: none;
+    margin-right: 37px !important;
+}
+
+header ul li a:hover{
+    color: rgb(23, 86, 204)
+}
+
+header ul li a:target{
+    color: rgb(23, 86, 204)
+}
+
+
+
+header ul li ul{
+    position: absolute;
+    top: 25px;
+    left: 0;
+    width: 200px;
+    background-color: white;
+    margin-left: 5px !important;
+    display: none;
+    padding: 0 !important;
+}
+
+header ul li ul li .biru{
+    border-top: 2px solid  rgb(75, 131, 216) !important;
+}
+
+
+header .navbarss ul li ul, header .navbarss ul li ul li ul{
+    border: 1px solid rgba(0,0,0,.1);
+    border-top: none;
+}
+
+header ul li ul li{
+    width: 100%;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    margin-right: 0px !important;
+}
+
+header ul li ul li:hover{
+    background-color: rgb(21, 129, 93);
+}
+
+header ul li ul li a  {
+    margin: 0 !important;
+    padding: 0 10px 0 !important;
+    line-height: 50px;
+    font-size: 16px !important;
+    transition: .3s;
+}
+
+header ul li ul li a:hover{
+    color: black;
+}
+
+/* header ul li ul li a:hover  {
+    background-color: rgb(21, 129, 93);
+} */
+
+/* 2222 */
+
+
+
+header ul li ul li ul{
+    position: absolute;
+    top: -50px;
+    left: 194px;
+    width: 200px;
+    background-color: white;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+    display: none;
+}
+
+header ul li ul li ul li{
+    width: 100%;
+    border-top: 1px solid rgba(0,0,0,.1);
+}
+
+header ul li ul li ul li a  {
+    margin: 0 !important;
+    padding: 0 10px 0 !important;
+    line-height: 50px;
+    font-size: 16px !important;
+    transition: .3s;
+}
+
+
+
+/* 2222 */
+
+
+header .navbarss ul li:hover > ul{
+    display: initial;
+}
+
+header .navbarss ul li ul li:hover > ul{
+    display: initial;
+}

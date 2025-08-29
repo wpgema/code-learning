@@ -1,0 +1,993 @@
+:root{
+    --color: rgba(10, 2, 88, 0.9);
+    --BG: #fffde9;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    transition: all .2s linear;
+    text-decoration: none;
+    color: var(--color)
+}
+
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+header{
+    padding: 3rem 10rem;
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--BG)
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+.active {
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: .5rem 2rem;
+    border: 1px solid var(--color);
+    border-radius: 5rem;
+}
+
+
+header nav ul li{
+    list-style: none;
+    margin-left: 5rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+header nav ul li a{
+    color: var(--color);
+}
+
+.header .contact-info{
+    margin-left: 1rem;
+}
+
+header h1 .fa-bars{
+    display: none;
+}
+
+.hero{
+    position: relative;
+    padding: 0 10rem;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    background-color: var(--BG);
+}
+
+.hero .col{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.hero .col.right{
+    align-items: end;
+    text-align: center;
+}
+
+.hero .col.right .sub-card-top{
+    width: 65%;
+}
+
+.hero .col.col.right .sub-card-top p{
+    color: var(--color) !important;
+    font-weight: 400;
+}
+
+.hero .col.col.right .sub-card{
+    width: 65%;
+    text-align: center;
+}
+
+.hero h1.title{
+    font-size: 6.5rem;
+    font-weight: 500;
+    line-height: 8rem;
+}
+
+.hero p{
+    font-size: 1.5rem;
+    color: salmon;
+    font-weight: 500;
+}
+
+.hero .card{
+    width: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.hero .card h1{
+    font-size: 4.5rem;
+    font-weight: 500;
+}
+
+.hero .card p{
+    padding: 1rem;
+    color: var(--color);
+    font-weight: 400;
+}
+
+.hero .col.right .sub-card h1{
+    font-size: 4.5rem;
+    width: 8rem;
+    height: 8rem;
+    line-height: 8rem;
+    margin: auto;
+    border-radius: 50%;
+    border: 1px solid var(--color);
+}
+
+.hero .col.right .sub-card p{
+    color: var(--color);
+    font-weight: 400;
+}
+
+.hero img{
+    position: absolute;
+    bottom: 0;
+    height: 75vh;
+}
+
+.about{
+    padding: 5rem 10rem;
+    display: flex;
+}
+
+.about .col{
+    width: 50%;
+}
+
+.about .col.left{
+    padding-left: 5rem;
+}
+
+.about .col.left .card{
+    display: flex;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.about .col.left .card h1{
+    font-size: 2rem;
+    color: white;
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(11, 75, 56,.7);
+    border-radius: 50%;
+}
+
+.about .col.left .card .dsk{
+    padding-left: 2rem;
+}
+
+.about .col.left .card h2{
+    font-size: 1.8rem;
+}
+
+.about .col.left .card p{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.about .col.left .card h1.fa-mobile{
+    background-color: rgba(255, 230, 0,.7);
+}
+
+.about .col.left .card h1.fa-braille{
+    background-color: rgba(253, 80, 61,.7)
+}
+
+.about .col.right h1{
+    font-size: 4rem;
+    margin: 2rem 0;
+    font-weight: 500;
+}
+
+.about .col.right p{
+    font-size: 1.3rem;
+    line-height: 3rem;
+    font-weight: 500;
+}
+
+.about .col.right .card-info{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 7rem;
+    margin: 2rem 0;
+}
+
+.about .col.col.right .sub-sub-card-info{
+    display: flex;
+    align-items: center;
+    line-height: 0;
+}
+
+.about .col.col.right .sub-sub-card-info i{
+    font-size: 3rem;
+    font-weight: bolder;
+}
+
+.services {
+    padding: 5rem 10rem;
+    background-color: var(--BG);
+}
+
+.services h1.title{
+    font-size: 4rem;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.services .row{
+    display: flex;
+    margin-top: 0;
+}
+
+.services .col-one {
+    width: 45%;
+    border-right: 1px solid var(--color);
+}
+
+.services .row .col-one{
+    position: relative;
+    padding: 0 4rem;
+}
+
+.services .row .col-one::before{
+    position: absolute;
+    content: '';
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: rgb(11, 75, 56);
+    top: 0;
+    right: -1rem;
+}
+
+.services .row .col-one h2{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.services .row .col-one p{
+    font-size: 1.3rem;
+}
+
+.services .row .col-two{
+    width: 55%;
+    padding-left: 4rem;
+}
+
+.services .row .col-two h1{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.services .row .col-two p{
+    font-size: 1.3rem;
+    line-height: 2.5rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.services .row .col-one.two::before{
+    background-color: rgb(255, 230, 0);
+}    
+
+.services .row .col-one.three::before{
+    background-color: rgb(253, 80, 61)
+}
+
+.works{
+    padding: 5rem 10rem;
+}
+
+.works h1{
+    font-size: 3.5rem;
+    font-weight: 500;
+}
+
+.works .info{
+    display: flex;
+    justify-content: space-between;
+}
+
+.works .info p{
+    margin-top: .5rem;
+    font-size: 1.3rem;
+}
+
+.works .info p:nth-child(even){
+    margin-top: -1rem;
+    font-weight: 600;
+    color: salmon;
+}
+
+.works .row{
+    display: flex;
+    padding-top: 5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+}
+
+.works .row .col{
+    background-color: rgba(253, 80, 61,.7);
+    padding: 2.5rem;
+    border-radius: 10px;
+}
+
+.works .row .col:nth-child(even){
+    background-color: rgba(255, 230, .7);;
+}
+
+.works .row .col:nth-child(3){
+    background-color: rgba(11, 75, 56,.7);
+}
+
+.works .row .col h1{
+    font-size: 2rem;
+    color: #fff;
+}
+
+.works .row .col p{
+    font-size: 1.3rem;
+    color: #fff;
+}
+
+.works .row .col img{
+    width: 100%;
+    border-radius: 5px;
+}
+
+.experience{
+    background-color: var(--BG);
+    padding: 5rem 10rem;
+    text-align: center;
+}
+
+.experience h1{
+    font-size: 3.5rem;
+    font-weight: 500;
+}
+
+.experience p{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.3rem;
+}
+
+.experience .row{
+    margin-top: 5rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem
+}
+
+.experience .row .card{
+    position: relative;
+    background-color: #fff;
+    padding: 5rem 2rem 2rem 2rem;
+}
+
+.experience .row .card p{
+    width: 100%;
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+.experience .row .card h2{
+    margin-top: 2rem;
+}
+
+.experience .row .card img{
+    width: 6rem;
+    height:6rem;
+    border-radius: 50%;
+    position: absolute;
+    top: -3rem;
+    right: 15.5rem;
+}
+
+.experience .card-one, .experience .card-two{
+    margin-top: 5rem;
+}
+
+.experience .card-main{
+    height: fit-content;
+}
+
+
+.contact{
+    padding: 5rem 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.contact h1{
+    font-size: 3.5rem;
+    font-weight: 500;
+}
+
+.contact h2{
+    margin-top: 5rem;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.contact h2 span{
+    color: salmon;
+}
+
+.contact .col-one{
+    width: 60%;
+}
+
+.contact .col-two{
+    width: 40%;
+    padding: 1rem;
+}
+
+.contact .col-two h3{
+    font-size: 2rem;
+    font-weight: 600;
+    padding-left: 2rem;
+}
+
+.contact .col-two p{
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding-left: 2rem;
+}
+
+.contact .col-two h4{
+    width: fit-content;
+    font-size: 1.3rem;
+    font-weight: 600;
+    padding: .5rem 2rem;
+    
+}
+
+.contact .col-two .nav{
+    height: 16rem;
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 10rem;
+    box-shadow: 0 0 .3rem rgba(0, 0, 0, .3);
+}
+
+.footer .col-one{
+    width: 60%;
+    display: flex;
+}
+
+.footer .col-one p{
+    margin-right: 1rem;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.footer .col-one p:nth-child(1){
+    width: 16rem;
+    border-right: 1px solid var(--color);
+    font-size: 2rem;
+}
+
+.footer .col-one p:nth-child(2){
+    margin-top: .7rem;
+}
+
+.footer .col-two{
+    width: 40%;
+    margin-left: 3rem;
+}
+
+.footer .col-two p{
+    font-size: 1.3rem;
+    font-weight: 500;
+    text-transform: lowercase;
+}
+
+.footer .col-two p i{
+    color: red;
+}
+
+@media (max-width: 556px){
+    body{
+        width: 100% !important;
+        overflow-x: hidden !important;
+        background-color: #fff;
+    }
+    header{
+        padding: 1rem 2rem;
+        position: relative;
+        justify-content: space-between;
+    }
+
+    header h1 .fa-bars{
+        display: block;
+        z-index: 2;
+        position: relative;
+    }
+
+    header nav {
+        width: 100%;
+        height: 400px;
+        position: absolute;
+        top: -500px;
+        left: 0;
+        z-index: 1;
+        background-color: var(--BG)
+    }
+
+    header .nav-toggle{
+        top: 4rem;
+    }
+
+    header nav ul{
+        width: 100%;
+        height: 100%;
+        flex-flow: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    header nav ul li{
+        margin: 0;
+    }
+
+    .hero{
+        height: 750px;
+        padding: 3rem 0;
+        flex-direction: column;
+        justify-content: start;
+        align-items: center;
+    }
+
+    .hero .col{
+        width: 90%;
+    }
+
+    .hero .col h1{
+        font-size: 4rem;
+        line-height: 4rem;
+        margin-bottom: 3rem;
+    }
+
+    .hero .col p{
+        margin-bottom: 3rem;
+    }
+
+    .hero .col.right .sub-card-top{
+        width: 100%;
+    }
+
+    .hero .col.right{
+        justify-content: start;
+    }
+
+    .hero .col.right .sub-card{
+        margin-top: 3rem;
+    }
+
+    .hero .col.right .sub-card p{
+        margin:0
+    }
+
+    .hero img{
+        left: -7rem;
+    }
+
+    .about{
+        padding: 3rem 1.5rem;
+        flex-direction: column;
+    }
+
+    .about .col{
+        width: 100%;
+    }
+
+    .about .col.left{
+        padding-left: 0rem;
+    }
+
+    .about .col.left .card{
+        display: flex;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    
+    .about .col.left .card h1{
+        font-size: 2rem;
+        color: white;
+        width: 6rem;
+        height: 6rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(11, 75, 56,.7);
+        border-radius: 50%;
+    }
+
+    .about .col.left .card .dsk h2{
+        font-weight: 500;
+    }
+
+    .about .col.left .card .dsk p{
+        font-weight: 400;
+    }
+
+    .about .col.right .card h1{
+        font-size: 3rem;
+    }
+
+    .services{
+        padding: 3rem 1.5rem;
+    }
+
+    .services h1{
+        font-size: 3rem;
+        line-height: normal;
+    }
+
+    .services .row .col-one{
+        width: 35%;
+        padding: 0;
+    }
+
+    .services .col-one h2{
+        font-size: 1.8rem !important;
+    }
+
+    .services .col-one p{
+        font-size: 1.3rem !important;
+    }
+
+    .services .row .col-two{
+        width: 65%;
+        padding-left: 2rem;
+    }
+
+    .services .row h1{
+        font-size: 1.8rem !important;
+    }
+
+    .services .row p{
+        font-size: 1.3rem !important;
+    }
+
+    .works{
+        padding: 3rem 1.5rem;
+    }
+
+    .works .row{
+        padding-top: 2.5rem;
+        grid-template-columns: 1fr;
+    }
+
+    .works .info{
+        flex-direction: column;
+    }
+
+    .works .info p{
+        padding-top: 1rem;
+    }
+
+    .experience{
+        padding: 3rem 1.5rem;
+    }
+
+    .experience h1{
+        font-size: 3rem;
+        line-height: normal;
+    }
+    .experience .row{
+        margin-top: 3rem;
+    }
+
+    .experience .card{
+        margin-top: 2rem;
+        padding: 5rem 1rem 1rem 1rem;
+    }
+
+    .experience p{
+        width: 100%;
+    }
+
+    .experience .row{
+        padding: 0 4rem;
+        grid-template-columns: 1fr;
+    }
+
+    .experience .row{
+        margin-top: 3rem;
+    }
+
+    .experience .card{
+        margin-top: 2rem;
+        padding: 5rem 1rem 1rem 1rem;
+        background-color: black;
+    }
+
+    .experience input{
+        display: none;
+    }
+
+    .contact {
+        padding: 3rem 1rem;
+        justify-content: start;
+    }
+
+    .contact .col-one{
+        width: 55%;
+    }
+
+    .contact .col-one h1{
+        font-size: 3rem;
+    }
+
+    .contact .col-two{
+        width: 40%;
+    }
+
+    .footer{
+        padding: 3rem 1.5rem;
+        flex-direction: column;
+    }
+
+    .footer .col-one p:nth-child(1){
+        padding-right: 1rem;
+    }
+
+    .footer .col-two{
+        margin: 3rem 0 0 0;
+        width: 100%;
+        justify-content: end;
+    }
+
+}
+
+@media (min-width: 557px) and (max-width: 991px){
+    body{
+        width: 100% !important;
+        overflow-x: hidden !important;
+    }
+    header{
+        padding: 1rem 2rem;
+        position: relative;
+        justify-content: space-between;
+    }
+
+    header h1 .fa-bars{
+        display: block;
+        z-index: 2;
+        position: relative;
+    }
+
+    header nav {
+        width: 100%;
+        height: 400px;
+        position: absolute;
+        top: -500px;
+        left: 0;
+        z-index: 1;
+        background-color: var(--BG)
+    }
+
+    header .nav-toggle{
+        top: 4rem;
+    }
+
+    header nav ul{
+        width: 100%;
+        height: 100%;
+        flex-flow: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    header nav ul li{
+        margin: 0;
+    }
+
+    .hero{
+        height: 500px;
+        padding: 3rem 1.5rem;
+    }
+
+    .hero .col{
+        width: 90%;
+    }
+
+    .hero .col h1{
+        font-size: 4rem;
+        line-height: 4rem;
+        margin-bottom: 3rem;
+    }
+
+    .hero .col p{
+        margin-bottom: 3rem;
+    }
+
+    .hero .col.right .sub-card-top{
+        width: 100%;
+    }
+
+    .hero .col.right{
+        justify-content: start;
+    }
+
+    .hero .col.right .sub-card{
+        margin-top: 3rem;
+    }
+
+    .hero .col.right .sub-card p{
+        margin:0
+    }
+
+    .hero img{
+        height: 500px;
+    }
+
+    .about{
+        padding: 3rem 1.5rem;
+        flex-direction: column;
+    }
+
+    .about .col{
+        width: 100%;
+    }
+
+    .about .col.left{
+        padding-left: 0rem;
+    }
+
+    .about .col.left .card{
+        display: flex;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    
+    .about .col.left .card h1{
+        font-size: 2rem;
+        color: white;
+        width: 6rem;
+        height: 6rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(11, 75, 56,.7);
+        border-radius: 50%;
+    }
+
+    .about .col.left .card .dsk h2{
+        font-weight: 500;
+    }
+
+    .about .col.left .card .dsk p{
+        font-weight: 400;
+    }
+
+    .services{
+        padding: 3rem 1.5rem;
+    }
+
+    .services .row .col-one{
+        width: 35%;
+        padding: 0 .3rem 0;
+    }
+
+    .services .col-one h2{
+        font-size: 1.8rem !important;
+    }
+
+    .services .col-one p{
+        font-size: 1.3rem !important;
+    }
+
+    .services .row .col-two{
+        width: 65%;
+        padding-left: 2rem;
+    }
+
+    .services .row h1{
+        font-size: 1.8rem !important;
+    }
+
+    .services .row p{
+        font-size: 1.3rem !important;
+    }
+
+    .works{
+        padding: 3rem 1.5rem;
+    }
+
+    .works .row{
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+
+    .works .info{
+        flex-direction: column;
+    }
+
+    .works .info p{
+        padding-top: 1rem;
+    }
+
+    .experience{
+        padding: 3rem 1.5rem;
+    }
+
+    .experience p{
+        width: 100%;
+    }
+
+    .experience .row{
+        padding: 0 1rem;
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+
+    .experience .row{
+        margin-top: 3rem;
+    }
+
+    .experience .card{
+        margin-top: 2rem;
+    }
+
+    .experience input{
+        display: none;
+    }
+
+    .contact {
+        padding: 3rem 1.5rem;
+        justify-content: center;
+    }
+
+    .footer{
+        padding: 3rem 1.5rem;
+        flex-direction: column;
+    }
+
+    .footer .col-one p:nth-child(1){
+        padding-right: 1rem;
+    }
+
+    .footer .col-two{
+        margin: 3rem 0 0 0;
+        width: 100%;
+        justify-content: end;
+    }
+}

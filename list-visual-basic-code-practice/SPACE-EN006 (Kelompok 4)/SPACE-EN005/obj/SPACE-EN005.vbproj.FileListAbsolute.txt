@@ -1,0 +1,108 @@
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\bin\Debug\SPACE-EN005.exe.config
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\bin\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\bin\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\bin\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormLogin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormMenuUtama.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.Resources.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE-EN005.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterAdmin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterSupplier.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterKategoriBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\bin\Debug\DBAPLIKASI.mdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005\SPACE-EN005\obj\Debug\SPACE_EN005.FormTransTerimaBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\bin\Debug\SPACE-EN005.exe.config
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\bin\Debug\DBAPLIKASI.mdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\bin\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\bin\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\bin\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormLogin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterAdmin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterKategoriBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterSupplier.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMenuUtama.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.FormTransTerimaBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE_EN005.Resources.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3)\SPACE-EN005\obj\Debug\SPACE-EN005.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\bin\Debug\SPACE-EN005.exe.config
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\bin\Debug\DBAPLIKASI.mdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\bin\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\bin\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\bin\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormLogin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterAdmin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterKategoriBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterSupplier.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormMenuUtama.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.FormTransTerimaBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE_EN005.Resources.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN005 - Copy (3) - Copy\SPACE-EN005\obj\Debug\SPACE-EN005.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.exe.config
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\bin\Debug\DBAPLIKASI.mdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormLogin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterAdmin.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterKategoriBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterSupplier.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMenuUtama.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormTransTerimaBarang.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.Resources.resources
+C:\Users\User\Downloads\TUGASTERAKHIR\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\bin\Debug\DBAPLIKASI.mdb
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.exe.config
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\bin\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormLogin.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterAdmin.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterBarang.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterKategoriBarang.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterSupplier.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormMenuUtama.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.FormTransTerimaBarang.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE_EN005.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006\SPACE-EN005\obj\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\bin\Debug\SPACE-EN005.exe.config
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\bin\Debug\DBAPLIKASI.mdb
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\bin\Debug\SPACE-EN005.exe
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\bin\Debug\SPACE-EN005.pdb
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\bin\Debug\SPACE-EN005.xml
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormLogin.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterAdmin.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterBarang.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterKategoriBarang.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMasterSupplier.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormMenuUtama.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.FormTransTerimaBarang.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE_EN005.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\SPACE-EN006 (Kelompok 4)\SPACE-EN005\obj\Debug\SPACE-EN005.vbproj.GenerateResource.Cache

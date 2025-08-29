@@ -1,0 +1,10 @@
+:root{
+    --color: #0e1492;
+    --colorTransparent1: rgba(56, 0, 185, 0.7);
+    --colorTransparent2: rgba(56, 0, 185, 0.3);
+    --colorTransparent3: rgba(152, 108, 255, 0.1);
+    --colorParagraf: #747171;
+    --BG: #fffde9;
+    --shadow: 0 0 5px rgba(152, 108, 255, 0.1);
+    --shadow2: 5px 5px 10px var(--colorTransparent3), -5px 5px 10px var(--colorTransparent3);
+}

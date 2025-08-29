@@ -1,0 +1,94 @@
+/* ini hiasan untuk phone */
+/* body{
+    height: 700px !important;
+    overflow: hidden;
+} */
+    
+
+.menu-utama{
+    margin-top: 110px !important;
+    margin-bottom: 0 !important;
+}
+
+.menu-utama .kontak{
+    height: 150px;
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+.kontak h5{
+    font-size: 18px;
+}
+.kontak h6{
+    font-size: 15px;
+}
+.kontak p{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 10px;
+    border-top: 1px solid white;
+}
+.menu-utama .kontak .satu{
+    background-image: linear-gradient(to right bottom, rgb(240, 64, 181), rgb(63, 63, 219));
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(7, 7, 7,.6);
+}
+
+.menu-utama .kontak .dua{
+    background-image: linear-gradient(to right bottom, rgb(54, 119, 216), rgb(33, 250, 214));
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 12px !important;
+    box-shadow: 0 0 10px rgb(7, 7, 7,.6);
+}
+
+.menu-utama .kontak .tiga{
+    background-image: linear-gradient(to right bottom, rgb(233, 210, 80), rgba(151, 219, 63, 0.555));
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgb(7, 7, 7,.6);
+}
+
+.footerrs{
+    margin-top: 120px;
+    padding: 20px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footerrs .row .col-lg-3{
+    margin: auto;
+    text-align: center;
+}
+
+/* ini hiasan untuk desktop */
+@media (min-width: 992px) {
+
+.menu-utama{
+    margin-top: 150px !important;
+}
+
+
+.footerrs{
+    margin-top: 150px;
+    padding: 40px;
+    background-color: black;
+    color: #acacac;
+    font-size: 12px;
+    font-weight: 200;
+    height: 270px;
+}
+
+}

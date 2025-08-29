@@ -1,0 +1,43 @@
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.dtMahasiswa.resources
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.dtMahasiswa.resources
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.TambahDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Dataa Mahasiswa (TUGAS 6) - Copy\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.dtMahasiswa.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.TambahDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas UTS ( lanjutaan Tugas 6)\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).exe
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).pdb
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\bin\Debug\Dataa Mahasiswa (TUGAS 6).xml
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.dtMahasiswa.resources
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa_Mahasiswa__TUGAS_6_.TambahDataMhs.resources
+C:\Users\User\Downloads\TASK VB NET\Entri Data (Tugas UTS (Tugas 7 ( lanjutaan Tugas 6) ) )\Dataa Mahasiswa (TUGAS 6)\obj\Debug\Dataa Mahasiswa (TUGAS 6).vbproj.GenerateResource.Cache

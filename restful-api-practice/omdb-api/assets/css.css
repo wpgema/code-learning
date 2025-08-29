@@ -1,0 +1,15 @@
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h5{
+    font-weight: 300;
+}
+
+@media (max-width: 665px){
+    .row .col-lg h1{
+        font-size: 1.5rem;
+    }
+}

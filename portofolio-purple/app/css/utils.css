@@ -1,0 +1,83 @@
+.fc-purple{
+    color: var(--colorTransparent1)
+}
+
+.fs-5{
+    font-size: 5rem;
+}
+
+.fs-3{
+    font-size: 3rem
+}
+
+.lowercase{
+    text-transform: lowercase !important;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.mb-1{
+    margin-bottom: 1rem;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.transform:hover{
+    transition: .5s ;
+    transform: scale(1.15);
+}
+
+
+/* element */
+.tombol{
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: .5rem 1.5rem;
+    color: white;
+    text-decoration: none;
+    border-radius: 2px;
+    background-color: var(--colorTransparent1);
+}
+
+/* tampilan */
+.display-none{
+    display: none !important;
+}
+
+.opacity{
+    filter:grayscale()
+}
+
+.opacity-0{
+    opacity: 0;
+    transition: 1s ease-in-out;
+}
+
+.display-flex-center-beetwen{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.hidden{
+    display: none;
+}
+
+/* fixed */
+.fixed-right{
+    position: fixed;
+    top: 2rem;
+    right: 10rem;
+    z-index: 1;
+}
+
+@media (max-width: 992px) {
+    .fixed-right{
+        right: 2rem
+    }
+}

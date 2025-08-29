@@ -1,0 +1,24 @@
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\bin\Debug\dbDesktop.exe.config
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\bin\Debug\dbDesktopMaulana.mdb
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\bin\Debug\dbDesktop.exe
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\bin\Debug\dbDesktop.pdb
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\bin\Debug\dbDesktop.xml
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\dbDesktop.Form1.resources
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\dbDesktop.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\dbDesktop.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\dbDesktop.exe
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\dbDesktop.xml
+C:\Users\User\Downloads\TASK VB NET\dbDesktop\dbDesktop\obj\Debug\dbDesktop.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\bin\Debug\dbDesktop.exe.config
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\dbDesktop.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\dbDesktop.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\dbDesktop.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\dbDesktop.Resources.resources
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\dbDesktop.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\bin\Debug\dbDesktopMaulana.mdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\bin\Debug\dbDesktop.exe
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\bin\Debug\dbDesktop.pdb
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\bin\Debug\dbDesktop.xml
+C:\Users\User\Downloads\TASK VB NET\Tugas 5 (dbDesktop)\dbDesktop\obj\Debug\dbDesktop.Form1.resources
