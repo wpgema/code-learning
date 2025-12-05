@@ -1,0 +1,55 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "name": "Gema Maulana",
+            "email": "gema@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Dewi Ayu",
+            "email": "dewi@example.com"
+        },
+        {
+            "id": 3,
+            "name": "Rina Sari",
+            "email": "rina@example.com"
+        },
+        {
+            "id": 4,
+            "name": "Lina Kusuma",
+            "email": "lina@example.com"
+        },
+        {
+            "id": 5,
+            "name": "Sari Putri",
+            "email": "sari@example.com"
+        },
+        {
+            "id": 6,
+            "name": "Maya Lestari",
+            "email": "maya@example.com"
+        },
+        {
+            "id": 7,
+            "name": "Nina Wijaya",
+            "email": "nina@example.com"
+        },
+        {
+            "id": 8,
+            "name": "Tina Rahma",
+            "email": "tina@example.com"
+        },
+        {
+            "id": 9,
+            "name": "Vina Sulastri",
+            "email": "vina@example.com"
+        },
+        {
+            "id": 10,
+            "name": "Rita Anggraini",
+            "email": "rita@example.com"
+        }
+    ]
+}

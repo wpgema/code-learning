@@ -1,4 +1,4 @@
-Code Practice
+Code Learning
 
 Repository ini berisi kumpulan latihan pemrograman dari berbagai bahasa dan framework. Tujuannya sebagai wadah untuk belajar, eksperimen dan mendokumentasikan progres dalam belajar pemrograman
 
