@@ -1,27 +1,25 @@
 package config
 
 import (
-	"database/sql"
 	"fmt"
 	"os"
 
-	_ "github.com/go-sql-driver/mysql"
 	"github.com/joho/godotenv"
+	"gorm.io/driver/mysql"
+	"gorm.io/gorm"
 )
 
-var DB *sql.DB
+var DB *gorm.DB
 
 func ConnectDB() {
-	// Muat file .env jika ada; jika tidak ada, lanjutkan menggunakan env system
 	_ = godotenv.Load()
 
-	// Ambil env, jika kosong gunakan default
 	user := os.Getenv("DB_USER")
 	if user == "" {
-		user = "root" // default user
+		user = "root"
 	}
 
-	pass := os.Getenv("DB_PASS") // default kosong
+	pass := os.Getenv("DB_PASS")
 	host := os.Getenv("DB_HOST")
 	if host == "" {
 		host = "127.0.0.1"
@@ -34,21 +32,16 @@ func ConnectDB() {
 
 	name := os.Getenv("DB_NAME")
 	if name == "" {
-		name = "dbgolang" // default nama database
+		name = "dbgolang"
 	}
 
 	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?parseTime=true", user, pass, host, port, name)
 
-	database, err := sql.Open("mysql", dsn)
+	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 	if err != nil {
-		panic("Gagal membuka koneksi database: " + err.Error())
+		panic("Gagal membuka koneksi database (GORM): " + err.Error())
 	}
 
-	err = database.Ping()
-	if err != nil {
-		panic("Tidak bisa konek ke database: " + err.Error())
-	}
-
-	fmt.Println("Database Connected!")
-	DB = database
+	fmt.Println("Database Connected (GORM)!")
+	DB = db
 }
