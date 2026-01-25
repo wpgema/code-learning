@@ -1,0 +1,10 @@
+- Repository ini menyimpan arsitektur aplikasi berbasis web menggunakan pendekatan object oriented programming
+- Bahasa pemrograman
+    - Backend  : php
+    - Frontend : Javascript
+    - Styling  : css
+    - Markup   : html
+    - DBMS     : mysql
+- Source code yang saya gunakan merujuk pada tutorial belajar pemrograman yang diselenggarakan oleh channel youtube shandikagalih / webprogrammingunpas dan telah saya modifikasi untuk keperluan yang lebih luas lagi.
+- author  : M. Gema Maulana
+- version : 1.0.0

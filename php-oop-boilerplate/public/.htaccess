@@ -1,0 +1,14 @@
+Options -Multiviews
+
+RewriteEngine On
+
+RewriteRule ^(.*\.css)$ - [L] 
+RewriteRule ^(.*\.jpg)$ - [L]
+RewriteRule ^(.*\.jpeg)$ - [L] 
+RewriteRule ^(.*\.png)$ - [L] 
+RewriteRule ^(.*\.js)$ - [L]
+
+RewriteCond %{REQUEST_FILENAME}% !-d
+RewriteCond %{REQUEST_FILENAME}% !-f
+
+RewriteRule ^(.*)$ index.php?url=$1 [L] 
