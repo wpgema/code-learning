@@ -1,0 +1,44 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: "DM Sans", sans-serif;
+}
+
+.font-display {
+	font-family: "Manrope", sans-serif;
+}
+
+.page-hero {
+	background-position: center;
+	background-size: cover;
+}
+
+.quality-hero {
+	background-image: linear-gradient(90deg, rgba(27, 34, 29, .8), rgba(27, 34, 29, .3)), url("5.jpg");
+}
+
+.process-hero {
+	background-image: linear-gradient(90deg, rgba(27, 34, 29, .8), rgba(27, 34, 29, .3)), url("4.jpg");
+}
+
+.contacts-hero {
+	background-image: linear-gradient(90deg, rgba(27, 34, 29, .82), rgba(27, 34, 29, .38)), url("1.jpg");
+}
+
+.step-marker {
+	box-shadow: 0 0 0 8px #eef2ec;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+
+	*,
+	*::before,
+	*::after {
+		transition-duration: .01ms !important;
+	}
+}

@@ -1,0 +1,39 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: "DM Sans", sans-serif;
+}
+
+.font-display {
+	font-family: "Manrope", sans-serif;
+}
+
+.product-hero {
+	background-image:
+		linear-gradient(90deg, rgba(27, 34, 29, .78), rgba(27, 34, 29, .27)),
+		url("4.jpg");
+	background-position: center 58%;
+	background-size: cover;
+}
+
+.product-image {
+	transition: transform .65s ease;
+}
+
+.product-card:hover .product-image {
+	transform: scale(1.045);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+
+	*,
+	*::before,
+	*::after {
+		transition-duration: .01ms !important;
+	}
+}

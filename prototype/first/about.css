@@ -1,0 +1,46 @@
+:root {
+    color-scheme: light;
+    --charcoal: #27312b;
+    --leaf: #687d6d;
+    --leaf-light: #a8b8a8;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "DM Sans", sans-serif;
+}
+
+.font-display {
+    font-family: "Manrope", sans-serif;
+}
+
+.about-hero {
+    background-image:
+        linear-gradient(90deg, rgba(27, 34, 29, .78), rgba(27, 34, 29, .27)),
+        url("4.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.about-photo img {
+    transition: transform .7s ease;
+}
+
+.about-photo:hover img {
+    transform: scale(1.035);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+        transition-duration: .01ms !important;
+    }
+}
